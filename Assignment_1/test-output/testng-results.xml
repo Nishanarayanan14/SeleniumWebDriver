@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-04T13:02:37 PST" name="Default suite" finished-at="2023-01-04T13:04:04 PST" duration-ms="87291">
+    <groups>
+    </groups>
+    <test started-at="2023-01-04T13:02:37 PST" name="Default test" finished-at="2023-01-04T13:04:04 PST" duration-ms="87291">
+      <class name="toolsQA.Tools">
+        <test-method is-config="true" signature="beforTest()[pri:0, instance:toolsQA.Tools@4a22f9e2]" started-at="2023-01-04T13:02:37 PST" name="beforTest" finished-at="2023-01-04T13:02:52 PST" duration-ms="15277" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforTest -->
+        <test-method signature="toolsqa()[pri:0, instance:toolsQA.Tools@4a22f9e2]" started-at="2023-01-04T13:02:52 PST" name="toolsqa" finished-at="2023-01-04T13:04:04 PST" duration-ms="71930" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- toolsqa -->
+      </class> <!-- toolsQA.Tools -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
